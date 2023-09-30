@@ -18,3 +18,8 @@ Activity 3 screenshots:
 
 ![image](https://github.com/snehshah09/snehshah09.github.io/assets/52886440/56e805be-5f88-472e-a74a-31060055a3d6)
 
+Activity 4 screenshots:
+
+![image](https://github.com/snehshah09/snehshah09.github.io/assets/52886440/dc5c2edf-3931-455f-8597-aa2d6c170ee3)
+
+![image](https://github.com/snehshah09/snehshah09.github.io/assets/52886440/a65f5b2e-0c68-4a74-b485-5ab6c7df2249)
