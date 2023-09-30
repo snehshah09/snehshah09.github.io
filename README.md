@@ -9,6 +9,8 @@ Activity 2 screenshots:
 
 ![image](https://github.com/snehshah09/snehshah09.github.io/assets/52886440/1030faed-f3a4-41a6-a537-b23393ef5fba)
 
+![image](https://github.com/snehshah09/snehshah09.github.io/assets/52886440/6cd35a61-3667-43e5-8a4e-1ea37e324b39)
+
 
 Activity 3 screenshots:
 
