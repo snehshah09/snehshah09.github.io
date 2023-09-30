@@ -1,1 +1,2 @@
-# snehshah09.github.io
+# Sneh Shah 
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
